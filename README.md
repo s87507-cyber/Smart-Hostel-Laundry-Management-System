@@ -1,4 +1,4 @@
-# Smart-Hostel-Laundry-Management-System
+# Smart-Residential- College- Laundry-Management-System
 CSF3143 - Smart Residential College Laundry Management System
 
 team member :
